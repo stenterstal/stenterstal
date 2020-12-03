@@ -16,5 +16,5 @@
 
 ## 📫 Get in touch
 - You can always send me an [✉️](mailto:git@stenterstal.com) at [git@stenterstal.com](mailto:git@stenterstal.com),
-- [🌍 Visit my personal website](http://stenterstal.com) for more of my work,
+- [🌍 Visit my personal website](http://stenterstal.com) for more of my work (WIP),
 - Or you can check out my [📄 resume](https://github.com/stenterstal/stenterstal/blob/main/CV.pdf) (Currently only in Dutch).
