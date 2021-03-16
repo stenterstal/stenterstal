@@ -8,11 +8,10 @@
 > It always takes three tries to get it right.
 
 ## ⚡ More about me
-- 📚 I'm currently learning about **Unity3D**, and automation using my **Raspberry Pi**
-- 🚧 I'm currently building a **web scaper** that automatically applies to appartments
-- 🏡 Im currently located in **Enschede, The Netherlands**; But I also speak 🇬🇧 **English** fluently
+- 📚 I'm learning about **Unity3D**, and automation using my **Raspberry Pi**
+- 🚧 I'm building a **web scaper** that automatically applies to appartments
+- 🏡 Im located in **Enschede, The Netherlands**; But I also speak 🇬🇧 **English** fluently
 - ⚙️ I'm a enthusiast of **JavaScript** and the **NodeJS** ecosystem
-- ☕ And I'm addicted to **coffee**
 
 ## 📫 Get in touch
 - You can always send me an [✉️](mailto:git@stenterstal.com) at [git@stenterstal.com](mailto:git@stenterstal.com),
