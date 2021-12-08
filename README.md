@@ -5,11 +5,10 @@
 🎓 Software Engineering student at [Saxion](https://www.saxion.edu/),  I mainly code in **JavaScript** using **NodeJS** and **React**.
 
 ## ⚡ More about me
-- 📚 I'm a **Raspberry Pi** enthusiast
-- 🚧 I built a **Web Scaper** that automatically applies to appartments
+- ⛏ I built a [**web scraper**](https://github.com/stenterstal/ikzoekeenhuisinenschede-scraper) that automatically searches for new subsidiary residences and mails them to you
 - 🏡 Im located in **The Netherlands**
 
 ## 📫 Get in touch
-- You can always send me an [✉️](mailto:git@stenterstal.com) at [git@stenterstal.com](mailto:git@stenterstal.com),
+- You can always send me an [✉️](mailto:work@stenterstal.com) at [work@stenterstal.com](mailto:work@stenterstal.com),
 - [🌍 Visit my personal website](http://stenterstal.com) for more of my work (WIP),
 - Or you can check out my [📄 resume in pdf](https://github.com/stenterstal/stenterstal/blob/main/CV.pdf) (In Dutch).
