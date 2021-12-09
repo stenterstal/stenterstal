@@ -4,9 +4,15 @@
 
 🎓 Software Engineering student at [Saxion](https://www.saxion.edu/),  I mainly code in **JavaScript** using **NodeJS** and **React**.
 
-## ⚡ More about me
+## ⚡ About me
 - ⛏ I built a [**web scraper**](https://github.com/stenterstal/ikzoekeenhuisinenschede-scraper) that automatically searches for new subsidiary residences and mails them to you
 - 🏡 Im located in **The Netherlands**
+
+## 📚 Things I want to learn or get better in
+- React
+    - [ ] Redux
+    - [ ] NextJS
+    - [ ] Netlify
 
 ## 📫 Get in touch
 - You can always send me an [✉️](mailto:work@stenterstal.com) at [work@stenterstal.com](mailto:work@stenterstal.com),
